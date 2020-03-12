@@ -64,3 +64,97 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav{
+	margin-left:70px;
+	margin:30px;
+}
+nav a{
+	font-weight:100;
+	margin-left:50px;
+	text-decoration:none ;
+	text-transform:capitalize ;
+	color:grey;
+}
+
+
+.logo{
+	float:right;
+	padding:0px 50px 0px 0px;
+	position: relative;
+	right: 1850px;
+
+}
+.code{
+	float:right;
+	position: relative;
+	Bottom:400px;
+	right:1820px;
+	
+
+	
+}
+
+#Innovation{
+	margin: 150px 150px 150px 50px;
+	font-size:60px;
+	width: 100px;
+	text-align: center;
+	position: relative;
+	left: 125px;
+	
+}
+.Get{
+	border:1px solid black;
+	padding:5px 30px 5px;
+	width:140px;
+	position: relative;
+	left:180px;
+	bottom:100px;
+}
+.Get:hover{
+	background-color: grey;
+	text-transform:uppercase;
+}
+
+h2,p{
+	padding:10px;
+}
+
+#feature{
+	width: 400px;
+	position: relative;
+
+}
+#about{
+	width:400px;
+	margin-left: 50px;
+
+}
+#feature , #about{
+	display: inline-block;
+}
+#services{
+width: 250px;
+}
+#product{
+width: 250px;
+margin-left: 50px;
+}
+#vision{
+width: 250px;
+margin-left: 50px;
+}
+
+#services , #product , #vision {
+	display: inline-block
+}
+	body{
+	padding-left:30px;
+	}
+.yes{
+	padding-top:10px;
+}
+.ihatethis{
+	position: relative;
+	left:350px;
+}
